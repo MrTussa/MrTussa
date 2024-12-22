@@ -1,7 +1,8 @@
 ## Hello comrades 👋
 
-📫 How to reach me: Telegram @mrtusa
-🌱 I’m currently learning NextJs and more
+ 📫 How to reach me: Telegram @mrtusa
+
+ 🌱 I’m currently learning NextJs and more
 <!--
 Here are some ideas to get you started:
 
